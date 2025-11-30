@@ -43,6 +43,8 @@ MySQL 8.0
 MySQL Workbench
 Microsoft Excel (for output exports)
 
+(Dataset not attached in this repository due to file size limitations.)
+
 #**About This Project**
 
 This SQL project was created to strengthen data analytics skills by applying real-world SQL techniques on a structured dataset.
