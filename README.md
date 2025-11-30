@@ -31,11 +31,11 @@ Basic data exploration
 
 #**Key Insights**
 
-The majority of rides are completed, showing high reliability.
-Online payments make up a significant share.
-Premium rides are fewer but generate higher revenue.
-Peak activity occurs in November 2024.
-Customers with higher ride frequency show consistent payment patterns.
+~The majority of rides are completed, showing high reliability.
+~Online payments make up a significant share.
+~Premium rides are fewer but generate higher revenue.
+~Peak activity occurs in November 2024.
+~Customers with higher ride frequency show consistent payment patterns.
 
 #**Tools Used**
 
